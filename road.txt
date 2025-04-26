@@ -7,8 +7,7 @@
 Road : 
 Zero hacker # This course is available exclusively on the codacker website and covers the fundamental and basic topics of hacking and security.
 network plus #Network+ with a focus on hacking and security.
-Bash Scripting
-Lpic1
-Python
-CEH
-PWK
+python
+Bash Scripting and Linux
+Hack Craft
+Programing and Pentest with Ai
